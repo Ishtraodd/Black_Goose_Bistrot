@@ -17,3 +17,8 @@ h2{
     color: #d1633c;
     font-size: 1em;
 }
+
+.recipe_section h1{
+    font-size: 25px;
+    color: aquamarine;
+}
